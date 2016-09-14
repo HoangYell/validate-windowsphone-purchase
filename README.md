@@ -1,0 +1,2 @@
+# validate-windowsphone-purchase
+python
